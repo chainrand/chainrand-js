@@ -1,0 +1,38 @@
+{
+  "name": "chainrand",
+  "version": "0.0.1",
+  "description": "Provably fair off-chain random sampling.",
+  "main": "chainrand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainrand/chainrand-js.git"
+  },
+  "keywords": [
+    "chainrand", 
+    "chainlink", 
+    "vrf",
+    "provenance", 
+    "crypto",
+    "blockchain", 
+    "nft",
+    "opensea",
+    "ethereum",
+    "eth",
+    "matic",
+    "polygon",
+    "academic",
+    "integrity",
+    "ipfs",
+    "sha256",
+    "aes256"
+  ],
+  "author": "Kang Yue Sheng Benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chainrand/chainrand-js/issues"
+  },
+  "homepage": "https://github.com/chainrand/chainrand-js#readme"
+}
