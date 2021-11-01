@@ -13,7 +13,7 @@ it can be used to demonstrate that the random numbers are **not cherry-picked**.
 **Browser / CDN:**
 
 ```html
-<script src="<https://cdn.jsdelivr.net/npm/chainrand/chainrand.min.js>"></script>
+<script src="https://cdn.jsdelivr.net/npm/chainrand/chainrand.min.js"></script>
 ```
 
 **NPM:**
