@@ -1,6 +1,6 @@
 {
   "name": "chainrand",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Verifiable hybrid-chain random number generator.",
   "main": "chainrand.js",
   "scripts": {
@@ -11,12 +11,12 @@
     "url": "git+https://github.com/chainrand/chainrand-js.git"
   },
   "keywords": [
-    "chainrand", 
-    "chainlink", 
+    "chainrand",
+    "chainlink",
     "vrf",
-    "provenance", 
+    "provenance",
     "crypto",
-    "blockchain", 
+    "blockchain",
     "nft",
     "opensea",
     "ethereum",
