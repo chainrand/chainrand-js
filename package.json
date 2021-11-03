@@ -1,6 +1,6 @@
 {
   "name": "chainrand",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Verifiable hybrid-chain random number generator.",
   "main": "chainrand.js",
   "scripts": {
