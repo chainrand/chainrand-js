@@ -8,6 +8,10 @@ cryptographically secure random numbers.
 By seeding it with a Chainlink VRF result that is requested **only once for the project**,  
 it can be used to demonstrate that the random numbers are **not cherry-picked**.
 
+# Requirements
+
+- A Javascript ES5 envrionment: NodeJS, most web browsers, even older ones.
+
 # Installation
 
 **Browser / CDN:**
@@ -107,7 +111,7 @@ r = crng.randrange(5, -5, -2) // returns a random number in {5,3,1,-1,-3}
 ## randint
 
 ```jsx
-crng.randint(start, stop[, step]): Integer
+crng.randint(start, stop): Integer
 crng.randint(stop): Integer
 ```
 
@@ -118,7 +122,6 @@ The integers are spaced with intervals of |step|.
 
 - `start: Integer` The start of the range. (optional, default=`0`)
 - `stop: Integer` The end of the range.
-- `step: Integer` The interval step. (optional, default=`1`)
 
 **Returns:**
 
