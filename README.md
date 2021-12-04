@@ -10,7 +10,7 @@ it can be used to demonstrate that the random numbers are **not cherry-picked**.
 
 # Requirements
 
-- A Javascript ES5 envrionment: NodeJS, most web browsers, even older ones.
+A Javascript ES5 envrionment: NodeJS, most web browsers, even older ones.
 
 # Installation
 
